@@ -6,3 +6,9 @@
 
 .suo
 /ShoppingApps/.vs/ShoppingApps/v17/.suo
+/ShoppingApps/bin/Debug
+/ShoppingApps/obj
+/ShoppingApps/packages/Microsoft.VisualStudio.Azure.Fabric.MSBuild.1.7.9
+/ShoppingApps/Shopping.API/bin
+/ShoppingApps/Shopping.API/obj/Debug/net6.0
+/ShoppingApps/Shopping.API/obj/Release/net6.0

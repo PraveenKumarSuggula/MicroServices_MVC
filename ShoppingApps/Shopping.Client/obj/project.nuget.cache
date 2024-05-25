@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "ivj3xGxRgAjHqiSubOM2Qt0igqdoqBp/j20bMjB4i064o7VJjpXxnyoaH7s0/pPpiYopNOPSrIrE/vL20u0UtA==",
+  "dgSpecHash": "xNH30ZVK5q8z3RcKRjdh0g1gj4KvXqZdfPqxr6nea8yXkigmoTWSOUUTkFYyvuBmqYvKNrJ8ZZW19e8xVWXsFA==",
   "success": true,
   "projectFilePath": "E:\\Personal Projects\\MicroServices_MVC\\ShoppingApps\\Shopping.Client\\Shopping.Client.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512"
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.18.1\\microsoft.visualstudio.azure.containers.tools.targets.1.18.1.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

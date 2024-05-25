@@ -29,3 +29,5 @@ E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\obj\Release\
 E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\obj\Release\net6.0\Shopping.Client.pdb
 E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\obj\Release\net6.0\Shopping.Client.genruntimeconfig.cache
 E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\obj\Release\net6.0\ref\Shopping.Client.dll
+E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\bin\Release\net6.0\Newtonsoft.Json.dll
+E:\Personal Projects\MicroServices_MVC\ShoppingApps\Shopping.Client\obj\Release\net6.0\Shopping.Client.csproj.CopyComplete
