@@ -16,7 +16,7 @@ spec:
         - name: acr-secret
       containers:
       - name: shoppingclient
-        image: shoppingmvcacr.azurecr.io/shoppingclient:v1
+        image: shoppingmvcacr.azurecr.io/shoppingclient:v2
         imagePullPolicy: IfNotPresent
         resources:
           requests:
@@ -24,7 +24,7 @@ spec:
             cpu: "0.1"
           limits:
             memory: "512Mi"
-            cpu: "1"
+            cpu: "0.3"
         ports:
         - containerPort: 80
         env: 
